@@ -1866,7 +1866,7 @@ img{ max-width:100%; display:block; }
 /* ✅ CONTACT 插画：放大版（覆盖即可） */
 #contact .contact-illust-pop{
   width: 250px !important;   /* 原来 240 -> 放大到 360 */
-  right: 10px !important;   /* 跟着放大，继续探出卡片 */
+  right: 25px !important;   /* 跟着放大，继续探出卡片 */
   bottom: -1px !important;  /* 稍微再往下探一点 */
   transform: rotate(-4deg) scale(1) !important;
 }
