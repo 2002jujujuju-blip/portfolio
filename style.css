@@ -2502,3 +2502,18 @@ a.view-more:hover{
   font-weight:400 !important;
   letter-spacing:.4px;
 }
+
+.about-grid .mini-note ul li{
+  background: #edf3ef !important;
+  border: 1px solid #dbe6df !important;
+  border-radius: 18px !important;
+  padding: 14px 18px !important;
+}
+
+/* Quick facts 每条的填充改为灰色卡片 */
+.about-grid .mini-note ul li{
+background: #f7f8fa !important;
+border: 1px solid #eceef1 !important;
+  border-radius: 18px !important;
+  padding: 14px 18px !important;
+}
